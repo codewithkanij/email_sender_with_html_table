@@ -5,9 +5,9 @@ from email.mime.text import MIMEText
 # set up the SMTP server
 smtp_server = "smtp.gmail.com"
 smtp_port = 587
-sender_email = "kanijsworna29@gmail.com"
-sender_password = "hognhzidgcrbxbmo"
-recipient_email = "niweha1478@rockdian.com"
+sender_email = "YOUR EMAIL ADDRESS"
+sender_password = "PASSWORD"
+recipient_email = "RECIPIENT EMAIL ADDRESS"
 
 # set up the email message
 msg = MIMEMultipart('alternative')
